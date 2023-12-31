@@ -2,7 +2,8 @@
 
 ## Table de matière
 - [Installation](#installation)
-
+- [Contribuer](#contribuer)
+- [Licence](#licence)
 
 ## Installation
 
